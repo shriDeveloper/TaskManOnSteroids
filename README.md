@@ -1,4 +1,4 @@
-# vue-blog
+# TaskMan On Steroids :)
 
 > A Vue.js project
 
